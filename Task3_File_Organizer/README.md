@@ -20,3 +20,4 @@ Files used: os, shutil, pathlib and logging.
 1. Open a terminal in the folder where organizer.py is saved.
 2. Run: python organizer.py
 3. Enter the path of the folder you want to organize, or press Enter to use the Downloads folder.
+<img width="1220" height="859" alt="image" src="https://github.com/user-attachments/assets/4b6f8cb8-ee90-4db2-b671-5192f447e1e1" />
