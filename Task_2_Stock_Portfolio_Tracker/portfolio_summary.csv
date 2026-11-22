@@ -1,0 +1,3 @@
+Timestamp,Symbol,Company,Quantity,Buy Price,Current Price,Invested,Current Value,Gain/Loss,Gain/Loss %
+2026-11-22 18:48:38,TSLA,"Tesla, Inc.",150.0,120.0,345.82,18000.0,51873.0,33873.0,188.18
+2026-11-22 18:48:38,TOTAL,,,,,18000.0,51873.0,33873.0,188.18
