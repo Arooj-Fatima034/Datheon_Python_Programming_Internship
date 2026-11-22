@@ -26,3 +26,7 @@ A simple Python console program that tracks an investment portfolio. The user en
 python portfolio.py
 
 Enter the ticker, buy price and quantity for each stock. Type done instead of a ticker to finish.
+<img width="1879" height="978" alt="image" src="https://github.com/user-attachments/assets/221f370f-19f3-4b66-a2af-68dd9a4f7d81" />
+<img width="1905" height="910" alt="image" src="https://github.com/user-attachments/assets/7699f3ed-448e-4ac1-b644-04f95d689763" />
+
+
