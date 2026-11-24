@@ -9,7 +9,7 @@ except ImportError:
 
 
 def load_tickers():
-    tickers = {}
+    tickers ={}
     with open("sp500.csv", newline="", encoding="utf-8") as file:
         reader = csv.DictReader(file)
         for row in reader:
